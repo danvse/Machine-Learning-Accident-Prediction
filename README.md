@@ -24,3 +24,10 @@ pip install kagglehub
 conda install notebook -y
 conda install -c conda-forge ipywidgets -y
 
+Download The U.S Accidents from this link 
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+if link doesn't work download 
+Search US Accidents (2016 - 2023) in kaggle and download it
+and drag the dataset into this file
+
+extract the "myenv" zip in here as well as it is materials for visual code studios
